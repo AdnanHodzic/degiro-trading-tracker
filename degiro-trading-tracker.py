@@ -26,7 +26,7 @@ excel_file = sys.argv[1]
 df = pd.read_excel(excel_file)
 
 # define Kosten column (fee cost init)
-fc = df["Kosten"]
+fc = df["Transactiekosten"]
 
 # replace , with . + convert str to
 fc = fc.str.replace(",", ".").astype(float)
