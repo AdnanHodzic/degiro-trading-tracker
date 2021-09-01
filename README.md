@@ -27,7 +27,7 @@ This tool allows you to automatically display data of interest without even open
 
 Python 3 and necessary libraries. After Python3 is installed, necessary libarires can be installed by running:
 ```
-pip3 install pandas numpy
+pip3 install pandas numpy xlrd
 ```
 
 ### Running degiro-trading-tracker
