@@ -83,7 +83,7 @@ hCosts = "Stock costs"
 
 # output
 print(sepup)
-print("Analysis made by using:", excel_file, sep="\n")
+print("Analysis made by using:", excel_file, "\n")
 print("\nTotal Degiro portofolio investment ...")
 print("\nfrom:", dbeg, "\nto:  ", dend, "\n")
 print("%-20s  %-20s  %s" %(hCosts, hSell, hFee))
