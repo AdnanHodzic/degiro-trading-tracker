@@ -74,6 +74,10 @@ If you'd like me to add support for your language, or have some other idea or a 
 
 If you found this tool useful, please consider supporting the project by making a donation of any amount!
 
+##### Become Github Sponsor
+
+[Become a sponsor to Adnan Hodzic on Github](https://github.com/sponsors/AdnanHodzic) to acknowledge my efforts and help project's further open source development.
+
 #### PayPal
 [![paypal](https://www.paypalobjects.com/en_US/NL/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=adnan%40hodzic.org&item_name=Purpose%3A+Contribution+for+work+on+degiro-trader-tracker&currency_code=EUR)
 
