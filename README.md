@@ -10,7 +10,7 @@ by automatically analyzing exported `.xls` transactions file and performing cacu
 
 Example output with dummy data:
 
-<img src="https://foolcontrol.org/wp-content/uploads/2020/11/degiro-trading-tracker-example-output.jpg" width="550" />
+<img src="https://github.com/user-attachments/assets/071dbac3-a30e-45a6-bad5-6ab0c598b837" width="550" />
 
 If you're interested in opening Degiro account and earning 20€ credit, please [follow this link](https://www.degiro.nl/start-met-beleggen?id=25367010&amp;utm_source=mgm).
 
