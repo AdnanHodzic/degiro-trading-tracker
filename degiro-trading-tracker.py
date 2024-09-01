@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# coding: utf-8
 #
 # Degiro trading tracker:
 # Simplified tracking of your investments
