@@ -31,7 +31,11 @@ pip3 install pandas numpy xlrd
 python3 degiro-trading-tracker.py
 ```
 
-Or by using `pipenv`:
+**Or by using `pipenv`:**
+
+Install `pipenv` on Debian based Linux distros: `sudo apt install python3-pip pipenv`
+
+Run:
 
 ```
 pipenv install
